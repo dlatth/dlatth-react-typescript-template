@@ -1,0 +1,10 @@
+node_modules
+dist
+build
+.next
+.husky
+.vscode
+.git
+.env
+.env.local
+.prettierignore
